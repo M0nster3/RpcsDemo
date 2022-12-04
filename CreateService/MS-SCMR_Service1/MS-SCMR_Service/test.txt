@@ -1,0 +1,2 @@
+严重性	代码	说明	项目	文件	行	禁止显示状态
+错误	LNK2001	无法解析的外部符号 __imp_RpcStringBindingComposeW	MS-SCMR_Service	C:\Users\wangpengqi\Desktop\VS code\MS-SCMR_Service\MS-SCMR_Service\main.obj	1	

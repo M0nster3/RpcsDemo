@@ -1,0 +1,19 @@
+﻿  main.c
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(85,29): warning C4013: “SetPrivilege”未定义；假设外部返回 int
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(151,13): warning C4244: “=”: 从“unsigned __int64”转换到“DWORD”，可能丢失数据
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(164,48): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HANDLE”
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(165,49): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HANDLE”
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(160,23): warning C4101: “oldProtection2”: 未引用的局部变量
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(160,8): warning C4101: “oldProtection”: 未引用的局部变量
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(175,11): warning C4013: “GetTypeIndexByName”未定义；假设外部返回 int
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(302,46): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HANDLE”
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(303,45): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“HANDLE”
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(300,23): warning C4101: “oldProtection2”: 未引用的局部变量
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(300,8): warning C4101: “oldProtection”: 未引用的局部变量
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(333,85): warning C4142: "GetTypeIndexByName": 类型的良性重定义
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(456,28): warning C4022: “CreateProcessWithTokenW”: 指针与实参 1 不匹配
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(520,27): warning C4047: “=”:“wchar_t *”与“int”的间接级别不同
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(548,15): warning C4047: “==”:“wchar_t *”与“int”的间接级别不同
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(554,15): warning C4047: “==”:“wchar_t *”与“int”的间接级别不同
+C:\Users\wangpengqi\Desktop\VS code\DumpLsass\DumpLsass\main.c(538,3): warning C4102: “DefaultLabel”: 未引用的标签
+  DumpLsass.vcxproj -> C:\Users\wangpengqi\Desktop\VS code\DumpLsass\x64\Debug\DumpLsass.exe

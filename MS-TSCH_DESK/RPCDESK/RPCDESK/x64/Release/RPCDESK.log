@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\wangpengqi\Desktop\RPCDESK\RPCDESK\ms-dtyp.h(85,27): warning C4142: "CHAR": 类型的良性重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(467,14): message : 参见“CHAR”的声明
+C:\Users\wangpengqi\Desktop\RPCDESK\RPCDESK\ms-dtyp.h(87,29): warning C4142: "PCHAR": 类型的良性重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(555,15): message : 参见“PCHAR”的声明
+C:\Users\wangpengqi\Desktop\RPCDESK\RPCDESK\ms-dtyp.h(161,36): warning C4142: "LPCSTR": 类型的良性重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(561,39): message : 参见“LPCSTR”的声明
+C:\Users\wangpengqi\Desktop\RPCDESK\RPCDESK\ms-dtyp.h(167,28): warning C4142: "PSTR": 类型的良性重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(558,49): message : 参见“PSTR”的声明
+C:\Users\wangpengqi\Desktop\RPCDESK\RPCDESK\ms-dtyp.h(169,29): warning C4142: "LPSTR": 类型的良性重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winnt.h(558,41): message : 参见“LPSTR”的声明
+C:\Users\wangpengqi\Desktop\RPCDESK\RPCDESK\main.c(111,10): warning C4101: “buffer”: 未引用的局部变量
+  正在生成代码
+  2 of 30 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RPCDESK.vcxproj -> C:\Users\wangpengqi\Desktop\RPCDESK\x64\Release\RPCDESK.exe
