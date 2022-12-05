@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChangePass", "ChangePass\ChangePass.vcxproj", "{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|arm64 = Debug|arm64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|arm64 = Release|arm64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Debug|arm64.ActiveCfg = Debug|arm64
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Debug|arm64.Build.0 = Debug|arm64
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Debug|x64.ActiveCfg = Debug|x64
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Debug|x64.Build.0 = Debug|x64
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Debug|x86.ActiveCfg = Debug|Win32
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Debug|x86.Build.0 = Debug|Win32
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Release|arm64.ActiveCfg = Release|arm64
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Release|arm64.Build.0 = Release|arm64
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Release|x64.ActiveCfg = Release|x64
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Release|x64.Build.0 = Release|x64
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Release|x86.ActiveCfg = Release|Win32
+		{210D4B31-A1FF-45E7-8758-4FB98D9AAF4D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {586427F0-EBE0-470E-8CC9-11E2856323E0}
+	EndGlobalSection
+EndGlobal
