@@ -8,7 +8,7 @@ Demo大部分都是参考了impact工具，大家可以查看impacket源码，�
 
 ## 2、相关Demo的功能
 
-| CreateService            | 创建服务                    |
+| Demo                     | 注释                        |
 | ------------------------ | --------------------------- |
 | DumpLsass                | Dump lsass.exe              |
 | MS-SAMR/AddUser          | 添加用户                    |
@@ -16,6 +16,7 @@ Demo大部分都是参考了impact工具，大家可以查看impacket源码，�
 | MS-TSCH_DESK             | 创建计划任务                |
 | OXIDINterka_network_card | 探测内网多网卡              |
 | RPC over SMB             | 通过SMB做信息探测（无Demo） |
+| CreateService            | 创建服务                    |
 
 ### 3、后续打算出一篇相关相关Demo的原理
 
