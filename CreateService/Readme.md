@@ -8,9 +8,9 @@ Windows无法启动 XXX 服务（位于 本地计算机上）。错误1053:服�
 
 sc create ServiceName binPath= "C:\Windows\srvany.exe" start= auto
 
-reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ServiceName\Parameters /v AppDirectory /t REG_SZ /d "c:\" /f
+reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\tests\Parameters /v AppDirectory /t REG_SZ /d "C:\Users\15715\Desktop\Bypass\" /f
 
-reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ServiceName\Parameters /v Application /t REG_SZ /d "c:\xxx.exe" /f
+reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\tests\Parameters /v Application /t REG_SZ /d "C:\Users\15715\Desktop\Bypass\12.exe" /f
 
-reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ServiceName\Parameters /v AppParameters /t REG_SZ /d "如果程序需要参数则填在这里，如果不需要，清空这段文字或者整行" /f
+reg add HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\tests\Parameters /v AppParameters /t REG_SZ /d "" /f
 
